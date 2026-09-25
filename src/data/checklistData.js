@@ -1,5 +1,5 @@
 // Reusable data for the InspectPro landing page
-// Kept in simple JavaScript objects and arrays so they are easy to explain in an interview.
+// Kept in simple JavaScript objects and arrays
 
 export const initialChecklistItems = [
   {
